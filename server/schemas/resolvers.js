@@ -3,7 +3,6 @@ const { User, Thought } = require('../models');
 const { signToken } = require('../utils/auth');
 
 const resolvers = {
-
   Query: {
     me: async (parent, args, context) => {
       if (context.user) {
@@ -103,7 +102,6 @@ const resolvers = {
       throw new AuthenticationError('You need to be logged in!');
     }
   }
-
 };
 
 module.exports = resolvers;
