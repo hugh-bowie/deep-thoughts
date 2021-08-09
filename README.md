@@ -22,6 +22,12 @@ Bleow is a gif of it in live-action.
 
 `npm init`
 
+#### Navigate to client folder
+
+`npm i @apollo/client graphql`
+
+#### Navigate to server folder
+
 `npm i apollo-server-express graphql`
 
 ## Useage
