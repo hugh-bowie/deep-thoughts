@@ -1,4 +1,4 @@
-<h1 align="center">MERN Stack App with Apollo graphQL</h1>
+<h1 align="center">MERN Stack Deep Thoughts App with Apollo graphQL</h1>
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/hugh-bowie/deep-thoughts" />
     <img src="https://img.shields.io/github/languages/top/hugh-bowie/deep-thoughts" />
